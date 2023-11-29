@@ -14,6 +14,12 @@ There's also `EXTRA_DarticleAccelerator`, an alternate `Core` print that has a v
 
 I thought it would be really funny, so I made this.
 
+## LICENSE
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+don't sell it, derivatives are fine, share with same license, give credit
+
 ## ATTRIBUTION
 
 The collet system was lightly modified from Sillybutts' SCAR/PCAR collection to fit the existing Charamile Designs aesthetic. 
