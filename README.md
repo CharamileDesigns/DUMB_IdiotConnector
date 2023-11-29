@@ -1,6 +1,6 @@
 # `DUMB_1.0p` Idiot Connector
 
-the best muzzle device in the hobby
+relativistic levels of stupid
 
 ## What is this?
 
@@ -8,7 +8,7 @@ Requires two Dash-014 O-rings to be assembled. Prints without supports. May not 
 
 This is a print that will allow you to connect two blasters barrel to barrel. You can have EPIC PLUNGER SEAL BATTLES OF HISTORY by firing both blasters at the same time.
 
-There's also `EXTRA_DarticleAccelerator`, an alternate `Core` print that has a viewing window so you can shoot a dart out of each blaster and smash them together in the middle. 
+There's also `EXTRA_DarticleAccelerator`, an alternate `Core` print that has a viewing window so you can shoot a dart out of each blaster and smash them together in the middle for relativistic levels of stupid and fun.
 
 ## Why did you make this? 
 
