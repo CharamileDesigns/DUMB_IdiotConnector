@@ -22,7 +22,7 @@ don't sell it, derivatives are fine, share with same license, give credit
 
 ## ATTRIBUTION
 
-The collet system was lightly modified from Sillybutts' SCAR/PCAR collection to fit the existing Charamile Designs aesthetic. 
+The collet system was lightly modified from Sillybutts' SCAR/PCAR collection to fit the existing Charamile Designs aesthetic. Get the originals at https://github.com/Sillybutts/SCARs
 
 ## COMMERCIAL
 
