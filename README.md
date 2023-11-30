@@ -4,7 +4,7 @@ relativistic levels of stupid
 
 ## What is this?
 
-Requires two Dash-014 O-rings to be assembled. Prints without supports. May not be oriented properly.
+Requires two Dash-016 O-rings to be assembled. Prints without supports. May not be oriented properly.
 
 This is a print that will allow you to connect two blasters barrel to barrel. You can have EPIC PLUNGER SEAL BATTLES OF HISTORY by firing both blasters at the same time.
 
